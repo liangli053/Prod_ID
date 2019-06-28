@@ -1,8 +1,6 @@
-# Fine-Grain Classification of Beauty Products Based on Social Media Contents
+# Making Full Use of Multiple Data Types for Obeject Identification on Social Media
 
-Consulting project with CherryPick AI. Identification of beauty products mentioned in Instagram posts using ML techniques. A joint model was designed, which consists of a DNN for text and metadata processing and a CNN for image classication. The joint model outperforms both stand-alone CNN and DNN, highlighting the necessity of leveraging multiple data sources and data types.
-
-Author: Liang Li, Artifical Intelligence Fellow @ Insight NYC 2019B 
+A joint model was designed, which consists of a DNN for text and metadata processing and a CNN for image classication. The joint model outperforms both stand-alone CNN and DNN, highlighting the necessity of leveraging multiple data sources and data types.
 
 ## Table of Contents
 1. [Implementation](README.md#Implementation)  
