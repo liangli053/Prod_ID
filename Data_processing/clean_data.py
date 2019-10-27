@@ -12,8 +12,8 @@ from data_processing_utils import classify_products, plot_distribution, keepGloV
 
 BASE_DIR = ".."
 DATA_DIR = "data/orig_data"
-MEDIA_FILE = "20190610_tagged_media.csv"
-PRODUCTS_FILE = "20190610_product_labels.csv"
+MEDIA_FILE = "PATH_TO.csv"
+PRODUCTS_FILE = "PATH_TO.csv"
 
 # specify paths to media, products and image files
 media_path = os.path.join(BASE_DIR, DATA_DIR, MEDIA_FILE)
